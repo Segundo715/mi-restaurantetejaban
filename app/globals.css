@@ -1,0 +1,126 @@
+@import "tailwindcss";
+
+/* ===== Paleta de marca "El Tejaban" =====
+   Azul y rojo derivados del logotipo, sobre fondo blanco.
+   Estos tokens se pueden usar directamente vía var(--tj-*) en cualquier página. */
+:root {
+  --tj-bg:         #ffffff; /* fondo principal (blanco) */
+  --tj-surface:    #f4f6fb; /* tarjetas / superficies claras */
+  --tj-surface-2:  #e2e8f4; /* superficie secundaria / inputs */
+  --tj-blue:       #324a86; /* acento principal (azul del logo) */
+  --tj-blue-dark:  #31477f; /* azul oscuro para gradientes/hover fuerte */
+  --tj-blue-light: #4360a5; /* azul claro para hover / estado activo */
+  --tj-red:        #da320d; /* acento secundario (rojo del logo) */
+  --tj-red-light:  #e2653f; /* rojo claro / franjas */
+  --tj-text:       #1c2540; /* texto principal sobre blanco */
+  --tj-text-soft:  #5b6480; /* texto tenue */
+  --tj-on-accent:  #ffffff; /* texto sobre azul o rojo */
+  --tj-border:     rgba(50, 74, 134, 0.22);
+
+  /* Alias retro-compatibles (código heredado usa var(--cm-*)) */
+  --cm-crema: var(--tj-bg);        --cm-surface: var(--tj-surface);
+  --cm-surface-2: var(--tj-surface-2); --cm-cafe: var(--tj-blue);
+  --cm-cafe-dark: var(--tj-blue-dark); --cm-cafe-light: var(--tj-blue-light);
+  --cm-olivo: var(--tj-red);       --cm-khaki: var(--tj-red-light);
+  --cm-text: var(--tj-text);       --cm-text-soft: var(--tj-text-soft);
+  --cm-on-cafe: var(--tj-on-accent); --cm-border: var(--tj-border);
+
+  --background: var(--tj-bg);
+  --foreground: var(--tj-text);
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+/* ===== Tema del panel /admin (claro por defecto, azul oscuro opcional) =====
+   Las páginas del admin referencian estos tokens vía var(--ad-*).
+   El tema se conmuta con el atributo data-admin-theme en <html>. */
+:root,
+[data-admin-theme="light"] {
+  --ad-bg:       #ffffff;
+  --ad-card:     #f4f6fb;
+  --ad-elevated: #eef1f8;
+  --ad-accent:   #324a86;
+  --ad-text:     #1c2540;
+  --ad-sub:      #5b6480;
+  --ad-border:   rgba(50, 74, 134, 0.22);
+  --ad-sidebar:  #e2e8f4;
+  --ad-overlay:  rgba(0, 0, 0, 0.04);
+}
+
+[data-admin-theme="dark"] {
+  --ad-bg:       #131a2e;
+  --ad-card:     #1b2540;
+  --ad-elevated: #2b3654;
+  --ad-accent:   #4360a5;
+  --ad-text:     #eaeefb;
+  --ad-sub:      #95a1c2;
+  --ad-border:   rgba(226, 232, 244, 0.12);
+  --ad-sidebar:  #0e1526;
+  --ad-overlay:  rgba(255, 255, 255, 0.04);
+}
+
+/* Icono del toggle de tema: el sol se ve en oscuro, la luna en claro */
+.ad-icon-light { display: none; }
+[data-admin-theme="light"] .ad-icon-dark { display: none; }
+[data-admin-theme="light"] .ad-icon-light { display: block; }
+
+/* Logo: a color en claro; en tema oscuro se aclara para contrastar */
+.ad-logo { filter: none; }
+[data-admin-theme="dark"] .ad-logo { filter: brightness(0) invert(1); }
+
+/* Hover de los enlaces del menú lateral: usa el color seleccionado y texto contrastante */
+.ad-navlink:not(.is-active):hover {
+  background-color: var(--ad-nav-hover);
+  color: var(--ad-nav-hover-text) !important;
+}
+
+html {
+  text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; /* iOS Safari < 16 */
+}
+
+/* Scrollbar personalizado — solo en navegadores que lo soporten (no Safari) */
+@supports (scrollbar-color: auto) {
+  html {
+    scrollbar-color: var(--ad-accent, #324a86) transparent;
+    scrollbar-width: thin;
+  }
+}
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: var(--ad-accent, #324a86);
+  border-radius: 999px;
+}
+
+body {
+  /* --ad-bg (no --background): en mi-proyecto-copia el panel admin la sobreescribe
+     por restaurante, así que body debe seguirla para no mostrar una franja del
+     color fijo de --background al fondo de la página. Mismo criterio aquí. */
+  background: var(--ad-bg, var(--background));
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Scroll del recetario: usa el color de marca configurable (--recetas-guinda) */
+.recipe-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: var(--recetas-guinda, #324a86) transparent;
+}
+.recipe-scroll::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+.recipe-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.recipe-scroll::-webkit-scrollbar-thumb {
+  background: var(--recetas-guinda, #324a86);
+  border-radius: 999px;
+}

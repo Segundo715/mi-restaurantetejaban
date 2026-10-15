@@ -1,0 +1,634 @@
+[
+  {
+    "category": "Entradas",
+    "name": "Requesón con Queso",
+    "description": "Requesón acompañado de queso ranchero, servido con una tostada.",
+    "price": 75,
+    "available": false,
+    "image": "/menu/food/requeson-con-queso.jpg"
+  },
+  {
+    "category": "Entradas",
+    "name": "Orden de Patitas de Puerco",
+    "description": "Orden de 3 patitas de puerco en vinagre",
+    "price": 115,
+    "available": true,
+    "image": "/menu/food/orden-de-patitas-de-puerco.jpg"
+  },
+  {
+    "category": "Entradas",
+    "name": "Patita de Puerco",
+    "description": "Patita de puerco cocida en vinagre, servida como entrada. Ideal para quienes disfrutan de sabores tradicionales.",
+    "price": 45,
+    "available": true,
+    "image": "/menu/food/patita-de-puerco.jpg"
+  },
+  {
+    "category": "Entradas",
+    "name": "Toquere",
+    "description": "Toquere salado con queso y crema sobre tortilla.",
+    "price": 30,
+    "available": true,
+    "image": "/menu/food/toquere.jpg"
+  },
+  {
+    "category": "Entradas",
+    "name": "Uchepo",
+    "description": "Una pieza de uchepo salado con queso y crema",
+    "price": 30,
+    "available": true,
+    "image": "/menu/food/uchepo.jpg"
+  },
+  {
+    "category": "Entradas",
+    "name": "Salsa de Requeson",
+    "description": "Deliciosa salsa de requesón con totopos",
+    "price": 75,
+    "available": false,
+    "image": "/menu/food/salsa-de-requeson.jpg"
+  },
+  {
+    "category": "Entradas",
+    "name": "Sopa del Dia",
+    "description": "PLATO DE SOPA DEL DIA",
+    "price": 40,
+    "available": true,
+    "image": "/menu/food/sopa-del-dia.jpg"
+  },
+  {
+    "category": "Tostadas",
+    "name": "Tostada de Guisado",
+    "description": "Tostada preparada en tortilla de maíz frita con base de frijol, repollo y guisado, complementada con jitomate, cebolla y queso.",
+    "price": 50,
+    "available": true,
+    "image": "/menu/food/tostada-de-guisado.jpg"
+  },
+  {
+    "category": "Tostadas",
+    "name": "Tostada de Patita de Puerco",
+    "description": "Tostada preparada en tortilla de maíz frita con patita de puerco, queso, crema, repollo y frijoles",
+    "price": 55,
+    "available": true,
+    "image": "/menu/food/tostada-de-patita-de-puerco.jpg"
+  },
+  {
+    "category": "Quesadillas",
+    "name": "Quesadilla Sencilla",
+    "description": "Quesadilla hecha a base de masa de maíz con relleno de queso.",
+    "price": 45,
+    "available": true,
+    "image": "/menu/food/quesadilla-sencilla.jpg"
+  },
+  {
+    "category": "Quesadillas",
+    "name": "Quesadilla con Guisado",
+    "description": "Quesadilla con tortilla de maíz hecha a mano, rellena de queso y chorizo. Elija su guisado preferido.",
+    "price": 55,
+    "available": true,
+    "image": "/menu/food/quesadilla-con-guisado.jpg"
+  },
+  {
+    "category": "Sopes",
+    "name": "Sope con Guisado",
+    "description": "Sope hecho a base de masa de maiz gruedo untado con frijoles, repollo, queso, crema y bistec",
+    "price": 40,
+    "available": true,
+    "image": "/menu/food/sope-con-guisado.jpg"
+  },
+  {
+    "category": "Sopes",
+    "name": "Sope Sencillo",
+    "description": "Sope hecho a base de masa de maíz grueso untado con frijoles refritos, repollo, queso y crema.",
+    "price": 35,
+    "available": true,
+    "image": "/menu/food/sope-sencillo.jpg"
+  },
+  {
+    "category": "Chavindeca",
+    "name": "Chavindeca",
+    "description": "Chavindeca con doble tortilla de comal hecha a mano, rellena de queso y carne guisada. Acompañada de lechuga, jitomate, cebolla y limón.",
+    "price": 65,
+    "available": true,
+    "image": "/menu/food/chavindeca.jpg"
+  },
+  {
+    "category": "Desayunos",
+    "name": "Fruta de Temporada",
+    "description": "Pedacitos de fruta de temporada como fresas, arándanos y melón. Se puede acompañar con granola y miel.",
+    "price": 60,
+    "available": true,
+    "image": "/menu/food/fruta-de-temporada.jpg"
+  },
+  {
+    "category": "Desayunos",
+    "name": "Huevos Al Gusto",
+    "description": "3 huevos al gusto acompañados de frijoles, con rodajas de jitomate y chiles.",
+    "price": 95,
+    "available": true,
+    "image": "/menu/food/huevos-al-gusto.jpg"
+  },
+  {
+    "category": "Desayunos",
+    "name": "Chilaquiles Al Gusto",
+    "description": "Deliciosos chilaquiles verdes o rojos, con frijoles, queso y crema. pueden ser sencillos o al gusto",
+    "price": 85,
+    "available": true,
+    "image": "/menu/food/chilaquiles-al-gusto.jpg"
+  },
+  {
+    "category": "Desayunos",
+    "name": "Hot Cakes",
+    "description": "Tres hot cakes servidos con lechera o miel de maple.",
+    "price": 60,
+    "available": true,
+    "image": "/menu/food/hot-cakes.jpg"
+  },
+  {
+    "category": "Desayunos",
+    "name": "menudo",
+    "description": "",
+    "price": 120,
+    "available": true,
+    "image": "/menu/food/menudo.jpg"
+  },
+  {
+    "category": "Para los peques",
+    "name": "Combo Burritos",
+    "description": "2 burritos partidos a la mitad, acompañados con una gelatina y un jugo de naranja.",
+    "price": 100,
+    "available": true,
+    "image": "/menu/food/combo-burritos.jpg"
+  },
+  {
+    "category": "Para los peques",
+    "name": "Combo Minisopes",
+    "description": "Combo de 2 mini sopes con jugo y gelatina. Los sopes están rellenos de verduras y carne.",
+    "price": 75,
+    "available": true,
+    "image": "/menu/food/combo-minisopes.jpg"
+  },
+  {
+    "category": "Para los peques",
+    "name": "Mini Taquitos",
+    "description": "8 mini taquitos dorados, rellenos de requesón, con dep de frijoles con chorizo",
+    "price": 85,
+    "available": true,
+    "image": "/menu/food/mini-taquitos.jpg"
+  },
+  {
+    "category": "Para los peques",
+    "name": "Combo Tiritas de Asada",
+    "description": "",
+    "price": 75,
+    "available": true,
+    "image": "/menu/food/combo-tiritas-de-asada.jpg"
+  },
+  {
+    "category": "Aves",
+    "name": "Pechuga de Pollo al gusto",
+    "description": "Deliciosa pechuga al asada, empanizada o rellena, a elegir, acompañada de ensalada, frijoles y arroz.",
+    "price": 100,
+    "available": true,
+    "image": "/menu/food/pechuga-de-pollo-al-gusto.jpg"
+  },
+  {
+    "category": "Antojitos Mexicanos",
+    "name": "Enchiladas Rojas Al Gusto",
+    "description": "Sencillas o al gusto a elegir, 4 piezas con de verdura doradita, repollo, queso, crema, jitomate, cebolla y un chilito en vinagre.",
+    "price": 80,
+    "available": true,
+    "image": "/menu/food/enchiladas-rojas-al-gusto.jpg"
+  },
+  {
+    "category": "Antojitos Mexicanos",
+    "name": "Enmoladas Al Gusto",
+    "description": "Tres enmoladas al gusto, sencillas o con pollo, cubiertas de mole, queso y crema, decoradas con cebolla morada.",
+    "price": 80,
+    "available": true,
+    "image": "/menu/food/enmoladas-al-gusto.jpg"
+  },
+  {
+    "category": "Antojitos Mexicanos",
+    "name": "Tacos Dorados",
+    "description": "4 piezas de tacos dorados, rellenos de pollo, desherbada o requesón. con opción a agregar una patita de cerdo en vinagre",
+    "price": 80,
+    "available": true,
+    "image": "/menu/food/tacos-dorados.jpg"
+  },
+  {
+    "category": "Carne de Res",
+    "name": "Carne Asada",
+    "description": "Deliciosa carne asada, acompañada de ensalada, frijoles y arroz. lleva cebollita y queso asado",
+    "price": 110,
+    "available": true,
+    "image": "/menu/food/carne-asada.jpg"
+  },
+  {
+    "category": "Carne de Res",
+    "name": "Arrachera",
+    "description": "Suculenta arrachera, acompañada de ensalada, frijoles y arroz",
+    "price": 150,
+    "available": true,
+    "image": "/menu/food/arrachera.jpg"
+  },
+  {
+    "category": "Carne de Res",
+    "name": "Cecina Tierra Caliente",
+    "description": "Cecina dorada acompañada de ensalada fresca, frijoles y arroz.",
+    "price": 130,
+    "available": true,
+    "image": "/menu/food/cecina-tierra-caliente.jpg"
+  },
+  {
+    "category": "La especialidad de la casa",
+    "name": "Aporreadillo",
+    "description": "Aporreadillo con arroz y frijoles.",
+    "price": 110,
+    "available": true,
+    "image": "/menu/food/aporreadillo.jpg"
+  },
+  {
+    "category": "La especialidad de la casa",
+    "name": "Frito de Cerdo",
+    "description": "En salsa guajillo o de jitomate, acompañado de arroz y frijoles",
+    "price": 120,
+    "available": true,
+    "image": "/menu/food/frito-de-cerdo.jpg"
+  },
+  {
+    "category": "La especialidad de la casa",
+    "name": "Mole",
+    "description": "Platillo de mole con una pieza de pollo, acompañado de arroz y espolboreado con ajonjoli",
+    "price": 110,
+    "available": true,
+    "image": "/menu/food/mole.jpg"
+  },
+  {
+    "category": "La especialidad de la casa",
+    "name": "Chorizo en Salsa",
+    "description": "Chorizo en salsa roja o verde, con arroz y frijoles",
+    "price": 100,
+    "available": true,
+    "image": "/menu/food/chorizo-en-salsa.jpg"
+  },
+  {
+    "category": "La especialidad de la casa",
+    "name": "Morisqueta",
+    "description": "Puede ser sencilla, con frito de cerdo o con aporreadillo a su elección. con frijoles, queso y crema",
+    "price": 85,
+    "available": true,
+    "image": "/menu/food/morisqueta.jpg"
+  },
+  {
+    "category": "La especialidad de la casa",
+    "name": "Chile Relleno",
+    "description": "Chile relleno de queso, en caldillo ocrema, con arroz y frijoles",
+    "price": 100,
+    "available": true,
+    "image": "/menu/food/chile-relleno.jpg"
+  },
+  {
+    "category": "Caldos",
+    "name": "Caldo de Espinazo con Morisqueta",
+    "description": "Caldo de espinazo con morisqueta, acompañado de granos de elote y cilantro.",
+    "price": 110,
+    "available": true,
+    "image": "/menu/food/caldo-de-espinazo-con-morisqueta.jpg"
+  },
+  {
+    "category": "Caldos",
+    "name": "Caldo de Pollo",
+    "description": "Caldo de pollo con muslo o pierna, verdurita, arroz, aguacate, limón, cebolla y chile picado",
+    "price": 100,
+    "available": false,
+    "image": "/menu/food/caldo-de-pollo.jpg"
+  },
+  {
+    "category": "Caldos",
+    "name": "Caldo de Res",
+    "description": "Caldo de res con carne, verdurita, arroz, aguacate, limón, cebolla y chile picado",
+    "price": 110,
+    "available": true,
+    "image": "/menu/food/caldo-de-res.jpg"
+  },
+  {
+    "category": "Caldos",
+    "name": "Churipo",
+    "description": "Caldo de res con corundas, verdurita, arroz, aguacate, limón, cebolla y chile picado",
+    "price": 120,
+    "available": true,
+    "image": "/menu/food/churipo.jpg"
+  },
+  {
+    "category": "Caldos",
+    "name": "Caldo de Iguana",
+    "description": "",
+    "price": 280,
+    "available": true,
+    "image": "/menu/food/caldo-de-iguana.jpg"
+  },
+  {
+    "category": "Comida del Día",
+    "name": "Comida Del Dia",
+    "description": "Sopa del día, plato fuerte variado y agua de sabor.",
+    "price": 90,
+    "available": true,
+    "image": "/menu/food/comida-del-dia.jpg"
+  },
+  {
+    "category": "Mariscos (Entradas)",
+    "name": "Aguachile",
+    "description": "Camarones en aguachile con rodajas de aguacate y cebolla morada, acompañados de tostadas.",
+    "price": 160,
+    "available": true,
+    "image": "/menu/food/aguachile.jpg"
+  },
+  {
+    "category": "Mariscos (Entradas)",
+    "name": "Ceviche",
+    "description": "Ceviche de pescado con verduras frescas y aguacate.",
+    "price": 150,
+    "available": true,
+    "image": "/menu/food/ceviche.jpg"
+  },
+  {
+    "category": "Mariscos (Entradas)",
+    "name": "Tostada de Marisco",
+    "description": "Tostada de marisco con jitomate, cebolla, aguacate y limón. Servida sobre una crujiente tortilla",
+    "price": 60,
+    "available": true,
+    "image": "/menu/food/tostada-de-marisco.jpg"
+  },
+  {
+    "category": "Mariscos (Entradas)",
+    "name": "Empanadillas",
+    "description": "Son de camarón, riquísimas, orden de 3 piezas",
+    "price": 110,
+    "available": true,
+    "image": "/menu/food/empanadillas.jpg"
+  },
+  {
+    "category": "Mariscos",
+    "name": "Caldo de Camarón O Pescado",
+    "description": "Riquísimo caldo de camarón o pescado, con verdura y limón",
+    "price": 135,
+    "available": true,
+    "image": "/menu/food/caldo-de-camaron-o-pescado.jpg"
+  },
+  {
+    "category": "Mariscos",
+    "name": "Coctel",
+    "description": "Riquísimo coctel de marisco a elegir, acompañado de sus galletitas saladas",
+    "price": 130,
+    "available": true,
+    "image": "/menu/food/coctel.jpg"
+  },
+  {
+    "category": "Mariscos",
+    "name": "Pescado",
+    "description": "Deliciosa mojarra al gusto, acompañada de ensalada, arroz blanco y aderezo",
+    "price": 140,
+    "available": true,
+    "image": "/menu/food/pescado.jpg"
+  },
+  {
+    "category": "Mariscos",
+    "name": "Filete de Pescado",
+    "description": "Filete de pescado acompañado de ensalada, arroz blanco y aderezo.",
+    "price": 130,
+    "available": true,
+    "image": "/menu/food/filete-de-pescado.jpg"
+  },
+  {
+    "category": "Mariscos",
+    "name": "Camarones Al Gusto",
+    "description": "Camarones preparados al gusto, servidos con ensalada, arroz blanco y aderezo.",
+    "price": 150,
+    "available": true,
+    "image": "/menu/food/camarones-al-gusto.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Refresco",
+    "description": "",
+    "price": 35,
+    "available": true,
+    "image": "/menu/food/refresco.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Limonada",
+    "description": "(473ml). Preparada con jugo de limón natural, agua mineral y azúcar.",
+    "price": 45,
+    "available": true,
+    "image": "/menu/food/limonada.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Naranjada",
+    "description": "(473 ml). Bebida preparada con jugo de naranja, agua mineral y azúcar.",
+    "price": 45,
+    "available": true,
+    "image": "/menu/food/naranjada.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Limonada Flotante",
+    "description": "Limonada con helado de limón.",
+    "price": 60,
+    "available": true,
+    "image": "/menu/food/limonada-flotante.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Coca-Cola flotante",
+    "description": "Coca-Cola con helado de limon",
+    "price": 60,
+    "available": true,
+    "image": "/menu/food/coca-cola-flotante.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Piñada",
+    "description": "(473 ml). Bebida preparada con piña licuada y crema de coco. (sin alcohol)",
+    "price": 70,
+    "available": true,
+    "image": "/menu/food/pinada.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Jugo de Naranja",
+    "description": "(473 ml). Jugo preparado con naranja natural.",
+    "price": 50,
+    "available": true,
+    "image": "/menu/food/jugo-de-naranja.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Jugo de Zanahoria",
+    "description": "(473 ml). Jugo preparado con zanahoria natural.",
+    "price": 50,
+    "available": true,
+    "image": "/menu/food/jugo-de-zanahoria.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Agua Embotellada",
+    "description": "Agua embotellada 600ml",
+    "price": 30,
+    "available": true,
+    "image": "/menu/food/agua-embotellada.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Vaso Agua de Sabor",
+    "description": "Agua de sabor 500 ml.",
+    "price": 20,
+    "available": true,
+    "image": "/menu/food/vaso-agua-de-sabor.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Jarra de Agua",
+    "description": "jarra de agua fresca",
+    "price": 55,
+    "available": true,
+    "image": "/menu/food/jarra-de-agua.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Rusa",
+    "description": "",
+    "price": 60,
+    "available": true,
+    "image": "/menu/food/rusa.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Mentirosa",
+    "description": "",
+    "price": 65,
+    "available": true,
+    "image": "/menu/food/mentirosa.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Agua Mineral en Infusión",
+    "description": "",
+    "price": 50,
+    "available": true,
+    "image": "/menu/food/agua-mineral-en-infusion.jpg"
+  },
+  {
+    "category": "Bebidas (sin alcohol)",
+    "name": "Sangria fresca",
+    "description": "",
+    "price": 60,
+    "available": true,
+    "image": "/menu/food/sangria-fresca.jpg"
+  },
+  {
+    "category": "Bebidas (desayuno)",
+    "name": "Café de Olla",
+    "description": "(355 ml). Preparado con café de olla endulzado con piloncillo",
+    "price": 35,
+    "available": true,
+    "image": "/menu/food/cafe-de-olla.jpg"
+  },
+  {
+    "category": "Bebidas (desayuno)",
+    "name": "Nescafe",
+    "description": "Agua caliente, azúcar y nescafe al gusto",
+    "price": 30,
+    "available": true,
+    "image": "/menu/food/nescafe.jpg"
+  },
+  {
+    "category": "Bebidas (desayuno)",
+    "name": "Chocolate",
+    "description": "(355 ml). Bebida preparada con leche y chocolate caliente.",
+    "price": 35,
+    "available": true,
+    "image": "/menu/food/chocolate.jpg"
+  },
+  {
+    "category": "Bebidas (desayuno)",
+    "name": "Vaso de Leche",
+    "description": "(355 ml). Vaso de leche entera.",
+    "price": 25,
+    "available": true,
+    "image": "/menu/food/vaso-de-leche.jpg"
+  },
+  {
+    "category": "Bebidas (desayuno)",
+    "name": "Chocomilk",
+    "description": "(355 ml). Bebida preparada con leche y chocolate en polvo.",
+    "price": 30,
+    "available": true,
+    "image": "/menu/food/chocomilk.jpg"
+  },
+  {
+    "category": "Bebidas (desayuno)",
+    "name": "Licuado de fruta",
+    "description": "",
+    "price": 35,
+    "available": true,
+    "image": "/menu/food/licuado-de-fruta.jpg"
+  },
+  {
+    "category": "Bebidas (desayuno)",
+    "name": "Té",
+    "description": "",
+    "price": 25,
+    "available": true,
+    "image": "/menu/food/te.jpg"
+  },
+  {
+    "category": "Postres",
+    "name": "Pay de Queso",
+    "description": "Rebanada de pay de queso con mermelada en la parte superior.",
+    "price": 50,
+    "available": true,
+    "image": "/menu/food/pay-de-queso.jpg"
+  },
+  {
+    "category": "Postres",
+    "name": "Chongos",
+    "description": "Chongos zamoranos",
+    "price": 50,
+    "available": true,
+    "image": "/menu/food/chongos.jpg"
+  },
+  {
+    "category": "Postres",
+    "name": "Gelatina",
+    "description": "Gelatina de sabor en vaso individual.",
+    "price": 15,
+    "available": true,
+    "image": "/menu/food/gelatina.jpg"
+  },
+  {
+    "category": "Postres",
+    "name": "gelatina preparada",
+    "description": "",
+    "price": 25,
+    "available": true,
+    "image": "/menu/food/gelatina-preparada.jpg"
+  },
+  {
+    "category": "Postres",
+    "name": "Duraznos en almíbar",
+    "description": "",
+    "price": 50,
+    "available": true,
+    "image": "/menu/food/duraznos-en-almibar.jpg"
+  },
+  {
+    "category": "Postres",
+    "name": "Arroz con leche",
+    "description": "",
+    "price": 40,
+    "available": true,
+    "image": "/menu/food/arroz-con-leche.jpg"
+  }
+]

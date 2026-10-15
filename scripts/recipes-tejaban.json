@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Toquere",
+    "category": "Entradas",
+    "description": "Tamal salado de elote molido relleno de rajas o queso, envuelto en hoja de elote.",
+    "ingredients": ["8 elotes con hojas", "200 g de queso fresco o rajas de chile poblano", "100 g de manteca", "Sal al gusto"],
+    "steps": [
+      "Desgranar y moler el elote con un poco de agua hasta formar una masa espesa.",
+      "Batir la manteca hasta esponjar, incorporar a la masa de elote y salar.",
+      "Colocar una porción en la hoja, rellenar con queso o rajas y envolver.",
+      "Cocer al vapor 45 minutos.",
+      "Servir calientes recién desenvueltos."
+    ]
+  },
+  {
+    "name": "Uchepo",
+    "category": "Entradas",
+    "description": "Tamal dulce de elote fresco molido, típico de Michoacán, envuelto en su propia hoja.",
+    "ingredients": ["8 elotes tiernos con hojas", "1/4 taza de azúcar", "100 g de mantequilla", "1 pizca de sal", "1/2 taza de leche"],
+    "steps": [
+      "Desgranar los elotes reservando las hojas más grandes y limpias para envolver.",
+      "Moler los granos con la leche hasta obtener un atole espeso.",
+      "Batir la mantequilla con azúcar y sal, incorporar al molido de elote.",
+      "Rellenar las hojas con la masa y doblar en forma de tamal.",
+      "Cocer al vapor 45-50 minutos hasta que se despeguen de la hoja.",
+      "Servir calientes."
+    ]
+  },
+  {
+    "name": "Patita de Puerco",
+    "category": "Entradas",
+    "description": "Patita de puerco cocida y curtida en vinagre con verduras.",
+    "ingredients": ["Patitas de puerco", "1 cebolla", "2 hojas de laurel", "1 taza de vinagre", "Zanahoria y chiles en escabeche", "Orégano y sal"],
+    "steps": [
+      "Cocer las patitas con cebolla, laurel y sal hasta que estén suaves (2-3 horas).",
+      "Deshuesar y cortar en tiras o trozos pequeños.",
+      "Curtir en vinagre con zanahoria cocida, chiles y orégano al menos 2 horas.",
+      "Servir frías como botana."
+    ]
+  },
+  {
+    "name": "Sopa del Dia",
+    "category": "Entradas",
+    "description": "Sopa casera de verduras de temporada, distinta cada día.",
+    "ingredients": ["Verduras de temporada", "Caldo de pollo o res", "Fideo o arroz (opcional)", "Cilantro", "Sal y pimienta"],
+    "steps": [
+      "Preparar un caldo base hirviendo huesos o pechuga con cebolla y ajo.",
+      "Agregar las verduras del día cortadas en trozos medianos.",
+      "Cocinar hasta que las verduras estén suaves.",
+      "Sazonar y servir caliente con cilantro picado."
+    ]
+  },
+  {
+    "name": "Tostada de Guisado",
+    "category": "Tostadas",
+    "description": "Tostada crujiente con guisado del día, frijoles, lechuga y crema.",
+    "ingredients": ["Tostadas de maíz", "Guisado de carne o pollo", "Frijoles refritos", "Lechuga, crema y queso"],
+    "steps": [
+      "Untar frijoles refritos sobre la tostada.",
+      "Colocar el guisado encima.",
+      "Cubrir con lechuga picada, crema y queso.",
+      "Servir de inmediato para que no se humedezca."
+    ]
+  },
+  {
+    "name": "Quesadilla con Guisado",
+    "category": "Quesadillas",
+    "description": "Tortilla de maíz o harina rellena de queso y guisado, dorada en comal.",
+    "ingredients": ["Tortillas de maíz o harina", "Queso Oaxaca", "Guisado de carne, pollo o rajas", "Aceite"],
+    "steps": [
+      "Calentar la tortilla en el comal.",
+      "Agregar queso y guisado, doblar por la mitad.",
+      "Dorar por ambos lados hasta que el queso derrita.",
+      "Servir con salsa al gusto."
+    ]
+  },
+  {
+    "name": "Sope con Guisado",
+    "category": "Sopes",
+    "description": "Base de masa gruesa con borde, frijoles, guisado, lechuga, crema y queso.",
+    "ingredients": ["Masa de maíz", "Frijoles refritos", "Guisado de carne o pollo", "Lechuga, crema y queso fresco", "Salsa"],
+    "steps": [
+      "Formar tortillas gruesas y cocerlas en comal, pellizcando el borde caliente.",
+      "Freír ligeramente en manteca.",
+      "Untar frijoles refritos y agregar el guisado.",
+      "Cubrir con lechuga, crema, queso y salsa al gusto."
+    ]
+  },
+  {
+    "name": "Chavindeca",
+    "category": "Chavindeca",
+    "description": "Antojito michoacano de tortilla de harina con carne asada, queso derretido y guacamole.",
+    "ingredients": ["Tortillas de harina", "200 g de carne asada picada", "Queso Oaxaca o manchego", "Guacamole", "Cebolla y cilantro"],
+    "steps": [
+      "Asar la carne y picarla finamente.",
+      "Calentar la tortilla de harina en el comal con queso hasta derretir.",
+      "Agregar la carne asada encima del queso.",
+      "Doblar y servir con guacamole, cebolla y cilantro."
+    ]
+  },
+  {
+    "name": "Chilaquiles Al Gusto",
+    "category": "Desayunos",
+    "description": "Totopos bañados en salsa roja o verde al gusto, con crema, queso y cebolla.",
+    "ingredients": ["Totopos de maíz", "6 jitomates o tomates verdes", "2 chiles serranos", "Crema, queso fresco y cebolla", "Pollo o huevo (opcional)"],
+    "steps": [
+      "Preparar la salsa hervida y licuada de jitomate o tomate verde con chile y ajo.",
+      "Calentar la salsa, agregar los totopos y mezclar rápido.",
+      "Servir de inmediato con crema, queso y cebolla.",
+      "Agregar pollo deshebrado o huevo al gusto."
+    ]
+  },
+  {
+    "name": "Huevos Al Gusto",
+    "category": "Desayunos",
+    "description": "Huevos preparados al gusto del comensal: revueltos, estrellados o a la mexicana.",
+    "ingredients": ["3 huevos", "Jitomate, cebolla y chile (para a la mexicana)", "Aceite", "Sal"],
+    "steps": [
+      "Calentar aceite en un sartén.",
+      "Preparar los huevos según la variante elegida (revueltos, estrellados o con jitomate/cebolla/chile picados).",
+      "Cocinar a fuego medio hasta el punto deseado.",
+      "Servir con tortillas calientes y frijoles."
+    ]
+  },
+  {
+    "name": "Hot Cakes",
+    "category": "Desayunos",
+    "description": "Panqués esponjosos servidos con mantequilla y miel.",
+    "ingredients": ["2 tazas de harina", "2 huevos", "1 taza de leche", "2 cucharadas de azúcar", "1 cucharada de polvo para hornear", "Mantequilla y miel"],
+    "steps": [
+      "Mezclar los ingredientes secos y luego incorporar huevo y leche hasta obtener una mezcla tersa.",
+      "Verter porciones en un comal o sartén engrasado a fuego medio.",
+      "Voltear cuando aparezcan burbujas en la superficie.",
+      "Servir apilados con mantequilla y miel."
+    ]
+  },
+  {
+    "name": "menudo",
+    "category": "Desayunos",
+    "description": "Caldo tradicional de panza de res con maíz pozolero, ideal para el desayuno.",
+    "ingredients": ["1 kg de panza de res", "500 g de maíz pozolero cocido", "3 chiles guajillo", "Cebolla y ajo", "Orégano, limón y chile piquín"],
+    "steps": [
+      "Cocer la panza limpia con cebolla y ajo hasta que esté muy suave (3-4 horas).",
+      "Cortar en trozos pequeños.",
+      "Licuar el chile guajillo remojado y agregar al caldo junto con el maíz pozolero.",
+      "Cocinar 20 minutos más y sazonar.",
+      "Servir caliente con orégano, limón y chile piquín al gusto."
+    ]
+  },
+  {
+    "name": "Enchiladas Rojas Al Gusto",
+    "category": "Antojitos Mexicanos",
+    "description": "Tortillas bañadas en salsa roja, rellenas de pollo o queso al gusto.",
+    "ingredients": ["12 tortillas de maíz", "4 chiles guajillo", "2 jitomates", "Pollo deshebrado o queso", "Crema y queso fresco"],
+    "steps": [
+      "Tostar y remojar los chiles guajillo, licuar con jitomate y ajo.",
+      "Freír la salsa colada.",
+      "Pasar las tortillas por la salsa caliente y rellenar.",
+      "Bañar con más salsa y decorar con crema, queso y cebolla."
+    ]
+  },
+  {
+    "name": "Tacos Dorados",
+    "category": "Antojitos Mexicanos",
+    "description": "Tacos de pollo o papa fritos hasta dorar, con lechuga, crema y salsa.",
+    "ingredients": ["Tortillas de maíz", "Pollo deshebrado o papa cocida", "Aceite para freír", "Lechuga, crema y queso", "Salsa roja"],
+    "steps": [
+      "Rellenar las tortillas con el guisado elegido y enrollar, sujetando con un palillo si es necesario.",
+      "Freír en aceite caliente hasta dorar y quedar crujientes.",
+      "Escurrir el exceso de aceite.",
+      "Servir cubiertos con lechuga, crema, queso y salsa."
+    ]
+  },
+  {
+    "name": "Carne Asada",
+    "category": "Carne de Res",
+    "description": "Corte de res asado a la parrilla, servido con guarniciones tradicionales.",
+    "ingredients": ["1 corte de res", "Sal y pimienta", "Limón", "Cebollitas de cambray", "Tortillas y guacamole"],
+    "steps": [
+      "Sazonar la carne con sal, pimienta y limón.",
+      "Asar a la parrilla a fuego alto 4-5 minutos por lado.",
+      "Dejar reposar 3 minutos y cortar en tiras.",
+      "Servir con cebollitas asadas, guacamole y tortillas calientes."
+    ]
+  },
+  {
+    "name": "Arrachera",
+    "category": "Carne de Res",
+    "description": "Corte de arrachera marinada y asada a la parrilla.",
+    "ingredients": ["Arrachera", "Jugo de limón y naranja agria", "Ajo", "Sal y pimienta", "Aceite"],
+    "steps": [
+      "Marinar la arrachera con los cítricos, ajo machacado, sal y pimienta al menos 2 horas.",
+      "Asar a la parrilla 3-4 minutos por lado.",
+      "Dejar reposar y cortar en tiras contra la fibra.",
+      "Servir con guarnición al gusto."
+    ]
+  },
+  {
+    "name": "Cecina Tierra Caliente",
+    "category": "Carne de Res",
+    "description": "Cecina de res delgada estilo Tierra Caliente, asada.",
+    "ingredients": ["Cecina de res", "Sal", "Limón", "Cebolla", "Guacamole"],
+    "steps": [
+      "Asar la cecina en comal o parrilla por ambos lados.",
+      "Cortar en trozos medianos.",
+      "Servir con limón, cebolla asada y guacamole aparte."
+    ]
+  },
+  {
+    "name": "Aporreadillo",
+    "category": "La especialidad de la casa",
+    "description": "Cecina deshebrada guisada en salsa de jitomate con huevo, platillo típico michoacano.",
+    "ingredients": ["Cecina deshebrada", "4 jitomates", "1 chile serrano", "2 huevos", "1/4 cebolla"],
+    "steps": [
+      "Asar y deshebrar finamente la cecina.",
+      "Licuar jitomate, chile y cebolla; freír la salsa hasta sazonar.",
+      "Agregar la cecina deshebrada y cocinar 5 minutos.",
+      "Incorporar los huevos batidos y revolver hasta que cuajen.",
+      "Servir caliente con tortillas."
+    ]
+  },
+  {
+    "name": "Mole",
+    "category": "La especialidad de la casa",
+    "description": "Mole rojo tradicional michoacano servido con pollo.",
+    "ingredients": ["Piezas de pollo", "200 g de chiles secos (ancho, mulato, guajillo)", "Especias (canela, clavo, pimienta)", "Chocolate de mesa"],
+    "steps": [
+      "Tostar y remojar los chiles secos; licuar con especias y un poco de caldo.",
+      "Freír la salsa colada y cocinar a fuego bajo 30-40 minutos, agregando chocolate al final.",
+      "Cocer las piezas de pollo e incorporar al mole.",
+      "Servir caliente con arroz o tortillas."
+    ]
+  },
+  {
+    "name": "Chorizo en Salsa",
+    "category": "La especialidad de la casa",
+    "description": "Chorizo guisado en salsa de jitomate con papa.",
+    "ingredients": ["300 g de chorizo", "3 jitomates", "1 papa", "1/4 cebolla", "Aceite"],
+    "steps": [
+      "Dorar el chorizo desmoronado en un sartén.",
+      "Licuar jitomate y cebolla; agregar a la sartén.",
+      "Incorporar la papa cocida en cubos y cocinar 10 minutos.",
+      "Servir caliente con tortillas."
+    ]
+  },
+  {
+    "name": "Morisqueta",
+    "category": "La especialidad de la casa",
+    "description": "Arroz blanco servido con carne de puerco guisada en salsa roja.",
+    "ingredients": ["2 tazas de arroz", "500 g de carne de puerco en trozos", "4 jitomates", "2 chiles guajillo", "1/4 cebolla y ajo"],
+    "steps": [
+      "Cocer el arroz blanco hasta que quede suelto.",
+      "Dorar la carne de puerco en trozos.",
+      "Licuar jitomate, chile guajillo, cebolla y ajo; freír la salsa.",
+      "Agregar la carne a la salsa y cocinar hasta que esté suave, 30-40 minutos.",
+      "Servir la carne guisada sobre el arroz."
+    ]
+  },
+  {
+    "name": "Chile Relleno",
+    "category": "La especialidad de la casa",
+    "description": "Chile poblano relleno de queso, capeado y bañado en salsa de jitomate.",
+    "ingredients": ["4 chiles poblanos", "Queso Oaxaca", "3 huevos", "Harina", "Salsa de jitomate"],
+    "steps": [
+      "Asar, sudar y desvenar los chiles poblanos; rellenar con queso.",
+      "Capear en harina y huevo batido a punto de nieve.",
+      "Freír en aceite caliente hasta dorar.",
+      "Bañar con salsa de jitomate caliente y servir."
+    ]
+  },
+  {
+    "name": "Churipo",
+    "category": "Caldos",
+    "description": "Caldo de res con chile guajillo y verduras, plato emblemático purépecha.",
+    "ingredients": ["1 kg de res con hueso", "6 chiles guajillo", "Col, calabaza, chayote y ejotes", "Xoconostle (opcional)"],
+    "steps": [
+      "Cocer la carne en agua con sal hasta suavizar.",
+      "Tostar y licuar los chiles guajillo colados; agregar al caldo.",
+      "Incorporar las verduras cortadas y cocinar hasta que estén tiernas.",
+      "Servir caliente, tradicionalmente con corundas."
+    ]
+  },
+  {
+    "name": "Caldo de Res",
+    "category": "Caldos",
+    "description": "Caldo de res con verduras de temporada, reconfortante y tradicional.",
+    "ingredients": ["1 kg de res con hueso", "Papa, zanahoria, calabaza y elote", "Repollo", "1/4 cebolla y ajo", "Cilantro y limón"],
+    "steps": [
+      "Cocer la carne con cebolla y ajo en abundante agua 1.5-2 horas.",
+      "Agregar las verduras cortadas en trozos grandes y cocer 20 minutos más.",
+      "Sazonar con sal.",
+      "Servir caliente con cilantro, limón y tortillas."
+    ]
+  },
+  {
+    "name": "Caldo de Pollo",
+    "category": "Caldos",
+    "description": "Caldo de pollo con verduras, ligero y reconfortante.",
+    "ingredients": ["Piezas de pollo", "Papa, zanahoria y calabaza", "Arroz (opcional)", "1/4 cebolla y ajo", "Cilantro y limón"],
+    "steps": [
+      "Cocer el pollo con cebolla y ajo hasta suavizar.",
+      "Agregar las verduras cortadas y cocinar hasta que estén tiernas.",
+      "Sazonar con sal.",
+      "Servir caliente con cilantro y limón."
+    ]
+  },
+  {
+    "name": "Aguachile",
+    "category": "Mariscos (Entradas)",
+    "description": "Camarón fresco curtido en limón con chile serrano y pepino.",
+    "ingredients": ["500 g de camarón fresco", "Jugo de limón", "3 chiles serranos", "Pepino y cebolla morada", "Sal"],
+    "steps": [
+      "Limpiar y abrir los camarones en mariposa.",
+      "Licuar limón con chile serrano y un poco de sal.",
+      "Bañar los camarones con la mezcla y dejar curtir 10-15 minutos.",
+      "Agregar pepino y cebolla morada fileteada, servir frío."
+    ]
+  },
+  {
+    "name": "Ceviche",
+    "category": "Mariscos (Entradas)",
+    "description": "Pescado o camarón curtido en limón con jitomate, cebolla y cilantro.",
+    "ingredients": ["500 g de pescado o camarón", "Jugo de limón", "Jitomate y cebolla picados", "Cilantro", "Chile serrano y sal"],
+    "steps": [
+      "Cortar el pescado en cubos pequeños y curtir en limón 20-30 minutos.",
+      "Escurrir el exceso de limón.",
+      "Mezclar con jitomate, cebolla, cilantro y chile picados.",
+      "Sazonar y servir frío con tostadas."
+    ]
+  },
+  {
+    "name": "Pescado",
+    "category": "Mariscos",
+    "description": "Filete de pescado blanco preparado a la plancha con mantequilla y ajo.",
+    "ingredients": ["1 filete de pescado blanco", "Mantequilla", "Ajo", "Sal, pimienta y limón"],
+    "steps": [
+      "Sazonar el filete con sal, pimienta y limón.",
+      "Calentar mantequilla con ajo en la plancha.",
+      "Cocinar el filete 3-4 minutos por lado hasta dorar.",
+      "Servir con guarnición de verduras o arroz."
+    ]
+  },
+  {
+    "name": "Chongos",
+    "category": "Postres",
+    "description": "Postre de leche cuajada en trozos, cocido en almíbar de canela.",
+    "ingredients": ["2 litros de leche", "Cuajo o pastillas de cuajar", "2 tazas de azúcar", "Rajas de canela"],
+    "steps": [
+      "Cuajar la leche tibia con el cuajo hasta formar una masa firme.",
+      "Cortar en cuadros sin romper la cuajada.",
+      "Cocinar a fuego muy bajo con azúcar y canela hasta dorar, 1-2 horas.",
+      "Enfriar y servir con el almíbar."
+    ]
+  },
+  {
+    "name": "Pay de Queso",
+    "category": "Postres",
+    "description": "Pastel cremoso de queso sobre base de galleta.",
+    "ingredients": ["Base de galleta molida con mantequilla", "500 g de queso crema", "1 lata de leche condensada", "2 huevos"],
+    "steps": [
+      "Formar la base de galleta con mantequilla en un molde y refrigerar.",
+      "Batir el queso crema con leche condensada y huevos hasta integrar.",
+      "Verter sobre la base y hornear a 160°C 40-45 minutos.",
+      "Enfriar y refrigerar antes de servir."
+    ]
+  },
+  {
+    "name": "Café de Olla",
+    "category": "Bebidas (desayuno)",
+    "description": "Café hervido con piloncillo y canela, servido en jarrito de barro.",
+    "ingredients": ["4 cucharadas de café molido", "1 raja de canela", "100 g de piloncillo", "4 tazas de agua"],
+    "steps": [
+      "Hervir el agua con la canela y el piloncillo hasta disolver.",
+      "Agregar el café molido y hervir 3-4 minutos más.",
+      "Colar y servir caliente."
+    ]
+  }
+]
